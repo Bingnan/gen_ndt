@@ -1,0 +1,1 @@
+This tool is to generate NDT variant code for a new project.
